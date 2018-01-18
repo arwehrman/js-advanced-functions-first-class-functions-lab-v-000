@@ -18,4 +18,4 @@ function createFareMultiplier(number){
 
 const fareDoubler = createFareMultiplier(2);
 
-const fair
+const fareTripler = createFareMultiplier(3);
