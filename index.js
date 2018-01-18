@@ -15,3 +15,7 @@ function createFareMultiplier(number){
     return fare * number;
   };
 }
+
+const fairDoubler = function(){
+  
+}
