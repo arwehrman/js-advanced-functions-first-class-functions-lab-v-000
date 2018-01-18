@@ -16,6 +16,5 @@ function createFareMultiplier(number){
   };
 }
 
-const fairDoubler = function(){
+const fairDoubler = createFareMultiplier(2);
   
-}
